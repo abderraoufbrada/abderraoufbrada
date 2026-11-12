@@ -1,104 +1,158 @@
-<!-- Replace every YOUR_... placeholder. Delete anything that is not true for you. -->
+# Abderraouf Brada
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abderraouf%20Brada&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Sensors%20Engineer%20in%20the%20making&descAlignY=58&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abderraouf%20Brada&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Micro-Nanosensors%20%7C%20Electronics%20%7C%20Instrumentation&descAlignY=60&descSize=15" width="100%" alt="Abderraouf Brada header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9FD9&center=true&vCenter=true&width=700&lines=Micro+%26+Nano+Sensors+Student;I+build+sensors+from+PCB+to+PC+software;Simulation+%7C+Instrumentation+%7C+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=2C9FD9&center=true&vCenter=true&width=750&lines=4th-Year+Micro-Nanosensors+Student;Electronics+%7C+Instrumentation+%7C+Embedded+Systems;Photonics+%7C+Semiconductors+%7C+Signal+Processing)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-WEBSITE.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-NAME)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-203a43?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abderraoufbrada.github.io/my_portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderraouf-brada-16bab632a/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderraoufbrada.05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abderraoufbrada)
 
 </div>
 
 ---
 
-## 👋 About me
+## About Me
 
-I'm a **4th-year student in Micro and Nano Sensors and Instrumentation** at the **National School of Nanosciences and Nanotechnology** in Algeria.
+I am a **4th-year student specializing in Micro-Nanosensors and Instrumentation for Nanotechnology (MSI-NanoTech)** at the **National Higher School of Nanosciences and Nanotechnology (ENSNN), Algeria**.
 
-I like projects where hardware and software meet: I design the sensor, then I write the code that simulates it, reads it, and makes sense of its data.
+My academic background combines electronics, semiconductor physics, optoelectronics, photonics, and sensor technologies.
 
-- 🔭 **Working on:** a capacitive displacement sensor (FR4 PCB plates, ESP32 readout)
-- 🌱 **Learning:** sensor simulation and PC software for instrumentation
-- 🛠️ **Building:** a 3D printer from scratch
-- 🤝 **Open to:** collaborations, internships, and research projects in sensors and instrumentation
-- 💬 **Ask me about:** capacitive sensing, ESP32, MEMS, remote sensing with NDVI
+I am particularly interested in the design and development of sensing systems, from the physical sensing principle and electronic interface to signal acquisition, processing, and data analysis.
+
+I enjoy applying theoretical knowledge to practical engineering projects, combining electronic circuit design, embedded programming, simulation, and experimental measurements.
+
+**Areas of interest:**
+- Micro- and nanosensors
+- Electronic instrumentation and measurement systems
+- Semiconductor devices and microelectronics
+- Optoelectronics and photonics
+- Embedded systems and sensor interfaces
+- Signal processing and data acquisition
+- Sensor modeling and simulation
+
+**Currently working on:**
+- Development of a capacitive displacement sensing system.
+- Practical electronics and embedded systems projects.
+- A 3D printer design and construction project.
+
+**Open to:** Research opportunities, technical collaborations, internships, and projects related to sensors, electronics, and instrumentation.
 
 ---
 
-## 🚀 Featured projects
+## Selected Projects
 
-| Project | What it does | Tech |
+| Project | Description | Technologies |
 |---|---|---|
-| 📏 **[Capacitive Displacement Sensor](https://github.com/YOUR-USERNAME/YOUR-REPO)** | Measures gaps up to 3 cm using FR4 PCB plates as a variable capacitor. The ESP32 reads the charge time through its comparator. | ESP32 · C++ · PCB design |
-| 🌾 **[Cereal Crop Identification](https://github.com/YOUR-USERNAME/YOUR-REPO)** | Identifies cereal crops from Sentinel-2 NDVI time series (phenological fingerprinting). | Google Earth Engine · Python · Random Forest |
-| 📈 **[MEMS Accelerometer Project](https://github.com/YOUR-USERNAME/YOUR-REPO)** | Sensor project with simulation and PC software. | YOUR-TECH |
-| ⚙️ **[ESP32 Stepper Control](https://github.com/YOUR-USERNAME/YOUR-REPO)** | Drives a geared stepper motor with an L298N driver, with calibrated half-turn control. | ESP32 · C++ |
-| 🖨️ **3D Printer from Scratch** | Designing and building a professional printer: frame, materials, electronics. | In progress |
+| **Infrared Communication Using Frequency Discrimination** | Development of an analog infrared communication system using frequency-selective circuits to distinguish transmitted signals without relying on a microcontroller for decoding. | Analog Electronics · IR · Signal Processing |
+| **Capacitive Displacement Sensor** | Development of a variable-capacitance sensing system using PCB electrodes, with an ESP32-based electronic readout. | ESP32 · C++ · PCB Design · Electronics |
+| **Cereal Crop Identification Using Satellite Data** | Analysis of Sentinel-2 NDVI time series to investigate and distinguish cereal crops based on their seasonal vegetation patterns. | Python · Google Earth Engine · Remote Sensing · Machine Learning |
+| **Satellite Attitude Sensors and ADCS Simulation** | Study of satellite attitude sensors and development of a MATLAB/Simulink-based model for attitude estimation and control. | MATLAB · Simulink · Control Systems · Sensor Fusion |
+| **ESP32-Based Stepper Motor Control** | Implementation of stepper motor control using an ESP32 and an L298N motor driver, including calibrated rotational movement. | ESP32 · C++ · Motor Control |
+| **3D Printer Design and Construction** | An ongoing personal engineering project involving mechanical structure, motion systems, electronics, and control. | Mechanical Design · Electronics · Embedded Systems |
 
-> 💡 Each project has its own README with a photo or plot, the results, and how to reproduce it.
+> Individual project repositories contain further documentation, implementation details, schematics, and experimental results where available.
 
 ---
 
-## 🧰 Skills and tools
+## Technical Skills
 
-**Embedded and hardware**
+### Electronics & Instrumentation
+
+![Analog Electronics](https://img.shields.io/badge/Analog_Electronics-203a43?style=for-the-badge)
+![Digital Electronics](https://img.shields.io/badge/Digital_Electronics-203a43?style=for-the-badge)
+![Sensor Interfaces](https://img.shields.io/badge/Sensor_Interfaces-203a43?style=for-the-badge)
+![Signal Conditioning](https://img.shields.io/badge/Signal_Conditioning-203a43?style=for-the-badge)
+![PCB Design](https://img.shields.io/badge/PCB_Design-203a43?style=for-the-badge)
+
+### Embedded Systems & Programming
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-
-**Software and simulation**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Simulation & Scientific Computing
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**Data and remote sensing**
-
-![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**Tools**
+### Remote Sensing & Data Analysis
 
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-203a43?style=for-the-badge)
+
+### Engineering Tools
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🎯 Career goal
+## Academic Background
 
-To become a **sensors engineer** who can take a sensor from the idea to the simulation, the prototype, and the software that uses it.
+**National Higher School of Nanosciences and Nanotechnology (ENSNN)**  
+*Micro-Nanosensors and Instrumentation for Nanotechnology (MSI-NanoTech)*
+
+4th-Year Student | Electronics
+
+Relevant academic subjects:
+
+- Analog and Digital Electronics
+- Electronic Instrumentation and Measurement
+- Semiconductor Physics and Devices
+- Solid State Physics
+- Sensors and Actuators
+- Advanced Sensors and Interface Electronics
+- Optoelectronics and Photonics
+- Microcontrollers and Embedded Systems
+- Signal Processing and Data Acquisition
+- MEMS/NEMS Characterization
+- Microfluidics and Lab-on-Chip
+- Control Systems and Multiphysics Modeling
 
 ---
 
-## 📊 GitHub stats
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abderraoufbrada&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderraoufbrada&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
 </div>
 
 ---
 
-## 📫 Let's connect
+## Career Interests
 
-- 🌐 **Portfolio:** [YOUR-WEBSITE.com](https://YOUR-WEBSITE.com)
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR-NAME](https://linkedin.com/in/YOUR-NAME)
-- 📧 **Email:** YOUR_EMAIL@example.com
-- 🔬 **ORCID:** [YOUR-ORCID](https://orcid.org/YOUR-ORCID)
+My goal is to develop strong expertise in **sensor engineering, electronic instrumentation, and advanced sensing technologies**.
+
+I am particularly interested in working on projects involving the design, characterization, and integration of micro- and nanosensors, as well as the electronic and computational systems required to acquire and interpret their measurements.
+
+I am also interested in research and development opportunities in microelectronics, photonics, semiconductor technologies, and embedded sensing systems.
+
+---
+
+## Let's Connect
+
+- **Portfolio:** [abderraoufbrada.github.io/my_portfolio](https://abderraoufbrada.github.io/my_portfolio/)
+- **LinkedIn:** [Abderraouf Brada](https://www.linkedin.com/in/abderraouf-brada-16bab632a/)
+- **Email:** abderraoufbrada.05@gmail.com
+- **GitHub:** [@abderraoufbrada](https://github.com/abderraoufbrada)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer"/>
 
-*Thanks for visiting. Feel free to ⭐ a project you like!*
+*Thank you for visiting my profile. Feel free to explore my projects and repositories.*
 
 </div>
