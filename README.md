@@ -41,22 +41,8 @@ I enjoy applying theoretical knowledge to practical engineering projects, combin
 
 **Open to:** Research opportunities, technical collaborations, internships, and projects related to sensors, electronics, and instrumentation.
 
----
 
-## Selected Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| **Infrared Communication Using Frequency Discrimination** | Development of an analog infrared communication system using frequency-selective circuits to distinguish transmitted signals without relying on a microcontroller for decoding. | Analog Electronics · IR · Signal Processing |
-| **Capacitive Displacement Sensor** | Development of a variable-capacitance sensing system using PCB electrodes, with an ESP32-based electronic readout. | ESP32 · C++ · PCB Design · Electronics |
-| **Cereal Crop Identification Using Satellite Data** | Analysis of Sentinel-2 NDVI time series to investigate and distinguish cereal crops based on their seasonal vegetation patterns. | Python · Google Earth Engine · Remote Sensing · Machine Learning |
-| **Satellite Attitude Sensors and ADCS Simulation** | Study of satellite attitude sensors and development of a MATLAB/Simulink-based model for attitude estimation and control. | MATLAB · Simulink · Control Systems · Sensor Fusion |
-| **ESP32-Based Stepper Motor Control** | Implementation of stepper motor control using an ESP32 and an L298N motor driver, including calibrated rotational movement. | ESP32 · C++ · Motor Control |
-| **3D Printer Design and Construction** | An ongoing personal engineering project involving mechanical structure, motion systems, electronics, and control. | Mechanical Design · Electronics · Embedded Systems |
-
-> Individual project repositories contain further documentation, implementation details, schematics, and experimental results where available.
-
----
 
 ## Technical Skills
 
