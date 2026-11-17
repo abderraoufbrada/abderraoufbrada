@@ -35,12 +35,10 @@ I enjoy applying theoretical knowledge to practical engineering projects, combin
 - Sensor modeling and simulation
 
 **Currently working on:**
-- Development of a capacitive displacement sensing system.
-- Practical electronics and embedded systems projects.
-- A 3D printer design and construction project.
+-metal surface scan instrument 
+-current sensor
 
 **Open to:** Research opportunities, technical collaborations, internships, and projects related to sensors, electronics, and instrumentation.
-
 
 
 
@@ -58,6 +56,8 @@ I enjoy applying theoretical knowledge to practical engineering projects, combin
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MPLAB](https://img.shields.io/badge/MPLAB-EE0000?style=for-the-badge&logo=microchip&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -66,7 +66,10 @@ I enjoy applying theoretical knowledge to practical engineering projects, combin
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-203a43?style=for-the-badge)
+![PSpice](https://img.shields.io/badge/PSpice-203a43?style=for-the-badge)
+![Silvaco TCAD](https://img.shields.io/badge/Silvaco_TCAD-203a43?style=for-the-badge)
+![COMSOL](https://img.shields.io/badge/COMSOL_Multiphysics-203a43?style=for-the-badge)
 
 ### Remote Sensing & Data Analysis
 
@@ -76,9 +79,14 @@ I enjoy applying theoretical knowledge to practical engineering projects, combin
 ### Engineering Tools
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Autodesk Fusion 360](https://img.shields.io/badge/Autodesk_Fusion_360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Documentation
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
