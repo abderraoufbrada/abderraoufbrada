@@ -35,9 +35,9 @@ I enjoy applying theoretical knowledge to practical engineering projects, combin
 - Sensor modeling and simulation
 
 **Currently working on:**
--metal surface scan instrument 
--current sensor
 
+- A metal surface scanning instrument
+- A current sensor
 **Open to:** Research opportunities, technical collaborations, internships, and projects related to sensors, electronics, and instrumentation.
 
 
