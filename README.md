@@ -123,15 +123,24 @@ Relevant academic subjects:
 </div>
 
 
-
 ## Let's Connect
 
-- **Portfolio:** [abderraoufbrada.github.io/my_portfolio](https://abderraoufbrada.github.io/my_portfolio/)
-- **LinkedIn:** [Abderraouf Brada](https://www.linkedin.com/in/abderraouf-brada-16bab632a/)
-- **Email:** abderraoufbrada.05@gmail.com
-- **GitHub:** [@abderraoufbrada](https://github.com/abderraoufbrada)
-
 <div align="center">
+
+<a href="https://abderraoufbrada.github.io/my_portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/abderraouf-brada-16bab632a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:abderraoufbrada.05@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/abderraoufbrada">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer"/>
 
