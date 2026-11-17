@@ -112,29 +112,17 @@ Relevant academic subjects:
 - Microfluidics and Lab-on-Chip
 - Control Systems and Multiphysics Modeling
 
----
-
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abderraoufbrada&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abderraoufbrada&theme=tokyonight" alt="GitHub profile details"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderraoufbrada&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abderraoufbrada&theme=tokyonight" alt="Most used languages"/>
 
 </div>
 
----
 
-## Career Interests
-
-My goal is to develop strong expertise in **sensor engineering, electronic instrumentation, and advanced sensing technologies**.
-
-I am particularly interested in working on projects involving the design, characterization, and integration of micro- and nanosensors, as well as the electronic and computational systems required to acquire and interpret their measurements.
-
-I am also interested in research and development opportunities in microelectronics, photonics, semiconductor technologies, and embedded sensing systems.
-
----
 
 ## Let's Connect
 
