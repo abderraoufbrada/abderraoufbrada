@@ -124,7 +124,6 @@ Relevant academic subjects:
 - Microcontrollers and Embedded Systems
 - Signal Processing and Data Acquisition
 - MEMS/NEMS Characterization
-- Microfluidics and Lab-on-Chip
 - Control Systems and Multiphysics Modeling
 
 </td>
