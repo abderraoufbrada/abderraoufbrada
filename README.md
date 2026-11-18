@@ -138,12 +138,15 @@ Relevant academic subjects:
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abderraoufbrada&theme=tokyonight" alt="GitHub profile details"/>
+<img height="165"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abderraoufbrada&theme=tokyonight"
+alt="GitHub profile details"/>
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abderraoufbrada&theme=tokyonight" alt="Most used languages"/>
+<img height="165"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abderraoufbrada&theme=tokyonight"
+alt="Most used languages"/>
 
 </div>
-
 </td>
 </tr>
 </table>
