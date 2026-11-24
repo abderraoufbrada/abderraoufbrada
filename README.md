@@ -134,30 +134,7 @@ Relevant academic subjects:
 <tr>
 <td>
 
-## GitHub Statistics
 
-<div align="center">
-
-<img height="165"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abderraoufbrada&theme=tokyonight"
-alt="GitHub profile details"/>
-
-<img height="165"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abderraoufbrada&theme=tokyonight"
-alt="Most used languages"/>
-
-</div>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer"/>
 
 *Thank you for visiting my profile. Feel free to explore my projects and repositories.*
 
